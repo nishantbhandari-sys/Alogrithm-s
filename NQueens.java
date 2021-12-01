@@ -1,3 +1,4 @@
+import java.util.* ;
 class NQueens {
     // static Making ans adds prev ans to next ans 
   
